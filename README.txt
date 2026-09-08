@@ -1,4 +1,3 @@
-
 # Atividade Prática 1 — Segurança em Sistemas Computacionais
 ## Fundamentos de Hashing e Integridade de Dados
 
