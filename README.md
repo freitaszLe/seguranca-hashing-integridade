@@ -11,8 +11,6 @@
 
 ```
 .
-├── Relatorio_Tecnico_Hashing.pdf   # Relatório técnico completo
-├── Apresentacao_Hashing.pptx       # Apresentação do trabalho
 ├── README.md
 └── scripts/
     ├── verificador_integridade.py  # Item 2.1
